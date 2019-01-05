@@ -43,7 +43,7 @@ This is an example exercise.
 
 ---
 
-## Insert exercise title here
+## Factor Analysis -  Model Iteration
 
 ```yaml
 type: VideoExercise
